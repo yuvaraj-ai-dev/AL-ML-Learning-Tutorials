@@ -1,0 +1,8 @@
+numpy
+matplotlib
+opencv-python
+pillow
+scikit-image
+imageio
+jupyter
+torch || keras  # optional - install one if using deep learning notebook
