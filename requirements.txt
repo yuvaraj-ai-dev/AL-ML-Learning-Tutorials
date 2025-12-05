@@ -5,4 +5,11 @@ matplotlib>=3.8
 jupyter
 notebook
 ipython
-
+torch>=2.0
+transformers>=4.20
+datasets>=2.0
+accelerate>=0.20
+evaluate>=0.4
+shap>=0.40
+lime>=0.2
+gradio>=3.0
